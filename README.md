@@ -1,3 +1,3 @@
 # DOS-Scripts
-Simple DDOS Scripts
-SUBSCRIBE TO MY YOUTUBE CHANNEL
+#Simple DDOS Script
+SUBSCRIBE TO MY YOUTUBE CHANNEL: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ/videos?disable_polymer=1
